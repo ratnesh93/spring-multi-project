@@ -66,6 +66,7 @@ Changes to be committed:
 	new file:   gs-rest-service-master/test/expected.json
 	new file:   gs-rest-service-master/test/run.sh
 
+If the output is same, you will get no errors/missing submodules in your repository.
 
 #git commit -m "checking multiple submodules commits"
 Now create github repository by login to your account in github.com
